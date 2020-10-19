@@ -1,4 +1,4 @@
-阿拉丁项目PSM内容管理部分微服务开发
+canal同步es数据组件开发
 ## 开发文档
 
 ### 1. 在http://tech.ciwei:8087/cw_java_team下载microservice-api,microservice-common项目
